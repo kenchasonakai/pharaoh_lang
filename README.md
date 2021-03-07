@@ -21,9 +21,14 @@ Or install it yourself as:
     $ gem install pharaoh_lang
 
 ## Usage
+アルファベットに対して`to_hieroglyph`メソッドを使うとヒエログリフに変換した文字列を返します
+```
+"roman".to_hieroglyph
+=> '𓂋𓍯𓅓𓄿𓈖'
 
-TODO: Write usage instructions here
-
+"1あaB".to_hieroglyph
+=> '1あ𓄿𓃀'
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
