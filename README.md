@@ -48,7 +48,15 @@ To install this gem onto your local machine, run `bundle exec rake install`.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/kenchasonakai/pharaoh_lang. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/kenchasonakai/pharaoh_lang/blob/master/CODE_OF_CONDUCT.md).
+バグレポとプルリクエストは https://github.com/kenchasonakai/pharaoh_lang に送ってください
+
+このプリジェクトは安全であることを意図されており、寄稿を歓迎します
+
+その際、寄稿者は[code of conduct](https://github.com/kenchasonakai/pharaoh_lang/blob/master/CODE_OF_CONDUCT.md)を守ってください
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/kenchasonakai/pharaoh_lang. 
+
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/kenchasonakai/pharaoh_lang/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
