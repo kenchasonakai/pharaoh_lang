@@ -1,27 +1,26 @@
 # PharaohLang
+こんにちはヒエログリファーの皆さんこのgemは文字列をヒエログリフに変換するメソッドを提供するgemです。
+現在アルファベットのみに対応しています。
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pharaoh_lang`. To experiment with that code, run `bin/console` for an interactive prompt.
+## インストール
 
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
+Gemfileに下記の１行を追加してください:
 
 ```ruby
 gem 'pharaoh_lang'
 ```
 
-And then execute:
+そして下記のコマンドを実行してください:
 
     $ bundle install
 
-Or install it yourself as:
+または下記コマンドで自分でインストールすることもできます:
 
     $ gem install pharaoh_lang
 
-## Usage
-アルファベットに対して`to_hieroglyph`メソッドを使うとヒエログリフに変換した文字列を返します
+## 使い方
+文字列に対して`to_hieroglyph`メソッドを使うとヒエログリフに変換した文字列を返します
+現在対応しているのはアルファベットのみのためその他の文字はそのまま出力されます
 ```
 "roman".to_hieroglyph
 => '𓂋𓍯𓅓𓄿𓈖'
