@@ -60,6 +60,8 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ## License
 
+このgemは、MITライセンスの条件の下でオープンソースとして利用できます。
+
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Code of Conduct
